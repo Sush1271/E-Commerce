@@ -1,0 +1,6 @@
+{
+  "name": "e-commerce",
+  "description": "A production-minded, feature-based bilingual marketplace MVP with customer storefront, cart, simulated virtual checkout, seller store & order fulfilment, and admin governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
